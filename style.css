@@ -1,3 +1,46 @@
-body{
+body {
     background: #c7b39b url(https://funart.pro/uploads/posts/2020-04/1587305122_13-p-foni-dlya-zastavok-44.jpg)
 }
+
+.color-rebeccapurple {
+    color: rebeccapurple;
+}
+
+.color-red {
+    color: red;
+}
+
+.color-green {
+    color: green;
+}
+
+
+.color-blue {
+    color: blue;
+}
+
+.picture {
+    padding: 15px;
+    margin: 15px;
+    border: 10px solid #2f3841;
+    box-shadow:10px 10px 10px 000000;
+    width:300px;
+    opacity:0.9;
+}
+.picture:hover{
+    padding:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
